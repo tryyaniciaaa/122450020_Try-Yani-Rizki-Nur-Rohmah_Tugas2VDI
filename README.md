@@ -1,5 +1,5 @@
 # 122450020_Try-Yani-Rizki-Nur-Rohmah_Tugas2VDI
-#Contoh Visualisasi Data yang Buruk
+# Contoh Visualisasi Data yang Buruk
 ![image](https://github.com/user-attachments/assets/eec583bc-cfaf-4ab1-b08e-c80d3b6e5b05)
 
 Sumber : https://www.bing.com/images/search?view=detailV2&ccid=lPXDjnri&id=14391F7E92637C6D19ABB4C21833A0C99A44FC4F&thid=OIP.lPXDjnriH6dApHKsO8HZyQHaHa&mediaurl=https%3a%2f%2fonline.hbs.edu%2fonline%2fPublishingImages%2fblog%2fposts%2fHBS_Too_Many_Variables_Pie_Chart.jpg&exph=1200&expw=1200&q=Bad+Infographics+with+Pie+Charts+and+Bar+Graphs&simid=607988604869244428&FORM=IRPRST&ck=A626688D5AC201A1D1342CA9DCAC143B&selectedIndex=1&itb=0
@@ -14,7 +14,7 @@ Banyaknya bagian kecil yang membuat data diinterpretasikan secara intuitif sehin
   4.	Never Deceive the Viewer (Perspektif etika visualisasi) :
 Penyajian pie chart yang penuh dengan elemen kecil dan warna yang cenderung serupa ini berpotensi membuat pembaca menjadi bingung. Akibatnya informasi tidak disampaikan dengan akurat dan efektif, yang bisa membuat pembaca salah menafsirkan proporsi antar segmen.
 
-#Contoh Visualisasi Data yang Baik:
+# Contoh Visualisasi Data yang Baik:
 
 ![image](https://github.com/user-attachments/assets/905bf327-c195-41ef-8913-d65e7109b77c)
 

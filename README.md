@@ -5,7 +5,7 @@
 Sumber : https://www.bing.com/images/search?view=detailV2&ccid=lPXDjnri&id=14391F7E92637C6D19ABB4C21833A0C99A44FC4F&thid=OIP.lPXDjnriH6dApHKsO8HZyQHaHa&mediaurl=https%3a%2f%2fonline.hbs.edu%2fonline%2fPublishingImages%2fblog%2fposts%2fHBS_Too_Many_Variables_Pie_Chart.jpg&exph=1200&expw=1200&q=Bad+Infographics+with+Pie+Charts+and+Bar+Graphs&simid=607988604869244428&FORM=IRPRST&ck=A626688D5AC201A1D1342CA9DCAC143B&selectedIndex=1&itb=0
 
 Berdasarkan gambar pie chart di atas, terdapat beberapa masalah yang bisa dijelaskan dengan prinsip dengan prinsip VDI(Visualisasi Data Informasi) yaitu :
-  1.	Form and Function (Dari segi keseimbanagan bentuk dan fungsi) :
+  1.	Form and Function (Dari segi keseimbangan bentuk dan fungsi) :
 Pie Chart yang disajikan ini memiliki terlalu banyak bagian (16 item), yang menyebabkan visualisasi nya menjadi terlalu kompleks dan sulit di mengerti bagi orang awam. 
   2. Justifying Every Design Decision	(Dalam hal justifikasi desain) :
 Penggunaan warna untuk setiap bagian yang tidak memiliki alas an kuat selain untuk membedakan kategori, warna yang kurang efektif dan kurang signifikan antar bagian kecil, sehingga tidak sepenuhnya mendukung pembacaan data yang lebih cepat dan kurang efisien.

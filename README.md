@@ -14,6 +14,17 @@ Banyaknya bagian kecil yang membuat data diinterpretasikan secara intuitif sehin
   4.	Never Deceive the Viewer (Perspektif etika visualisasi) :
 Penyajian pie chart yang penuh dengan elemen kecil dan warna yang cenderung serupa ini berpotensi membuat pembaca menjadi bingung. Akibatnya informasi tidak disampaikan dengan akurat dan efektif, yang bisa membuat pembaca salah menafsirkan proporsi antar segmen.
 
+![image](https://github.com/user-attachments/assets/05ec8412-2968-4681-bafd-45729c7b849d)
+
+Sumber : https://blog.hubspot.com/hs-fs/hubfs/Bad-Data-Visualization-Examples-1.jpg?width=600&name=Bad-Data-Visualization-Examples-1.jpg
+
+Dari gambar diatas terdapat beberapa masalah yang bisa dijelaskan dengan prinsip dengan prinsip VDI(Visualisasi Data Informasi) yaitu :
+  1.	Form and Function: Grafik ini menampilkan terlalu banyak elemen seperti jumlah publikasi, penulis, kutipan, dan tingkat pertumbuhan dalam satu bagan, membuatnya padat dan membingungkan. Bentuk grafik tidak mendukung fungsi penyampaian data dengan jelas.
+  2.	Justifying Every Design Decision: Desain tidak diatur dengan baik. Penggabungan berbagai data dalam satu grafik tanpa pembeda visual yang jelas mengacaukan informasi. Penggunaan sumbu sekunder dengan skala berbeda juga membuat perbandingan data sulit dipahami.
+  3.	Creating Accessibility Through Intuitive Design: Grafik ini tidak intuitif. Terlalu banyak elemen dan warna yang digunakan, menyulitkan pemahaman, terutama bagi pembaca dengan kesulitan penglihatan warna.
+  4.	Never Deceive the Viewer: Grafik berisiko menyesatkan karena penggunaan skala berbeda pada sumbu kiri dan kanan, yang dapat memberikan kesan keliru tentang perbedaan data antar variabel.
+
+
 # Contoh Visualisasi Data yang Baik:
 
 ![image](https://github.com/user-attachments/assets/905bf327-c195-41ef-8913-d65e7109b77c)
@@ -30,6 +41,13 @@ Grafik batang adalah bentuk visual yang sangat umum dan mudah dimengerti. Penemp
   4. 	Never Deceive the Viewer (Perspektif etika visualisasi) :
 Data disajikan secara jujur dan proposional. Tidak ada distorsi dalam penyajian Panjang batang yang berlebihan. Skala yang digunakan jelas dan sesuai, sehingga tidak ada kesan manipulasi yang dapat menyesatkan pembaca.
 
+![image](https://github.com/user-attachments/assets/fd7effcd-ed6a-4506-b2c1-7a927e82ff36)
 
+Sumber : https://www.instagram.com/p/DATDt-wzbyk/?igsh=MWptbDk1aHM2czg0bA==
 
+Visualisasi data terkait Negara Pemilik Gedung Pencakar Langit Terbanyak ini secara umum cukup baik karena memenuhi 4 prinsip dalam VDI (Visualisasi Data Informasi) karena:
+  1.	Form and Function: Gambar ini menyajikan data dengan jelas dan ringkas menggunakan peta dunia, sehingga mudah dipahami sesuai dengan konteks geografisnya.
+  2.	Justifying Every Design Decision: Setiap elemen, seperti bendera dan angka, dipilih dengan tujuan jelas untuk memudahkan pembaca melihat informasi spesifik per negara, tanpa membuat visualisasi berlebihan.
+  3.	Creating Accessibility Through Intuitive Design: Desain intuitif dan mudah diakses dengan angka besar dan penggunaan warna konsisten, sehingga informasi dapat dipahami dengan cepat dan jelas.
+  4.	Never Deceive the Viewer: Data disajikan akurat dan proporsional, tanpa elemen yang menyesatkan, memastikan pembaca menerima informasi yang tepat.
 
